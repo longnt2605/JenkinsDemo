@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="photo_size">64dp</dimen>
+
+</resources>
