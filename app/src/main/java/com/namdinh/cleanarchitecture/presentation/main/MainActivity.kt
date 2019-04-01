@@ -30,5 +30,6 @@ class MainActivity : BaseActivity() {
         //Test PR4
         //Test PR5
         //Test PR6
+        //Test PR7
     }
 }
