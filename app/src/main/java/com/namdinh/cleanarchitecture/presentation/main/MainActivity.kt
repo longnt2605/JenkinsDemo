@@ -50,5 +50,6 @@ class MainActivity : BaseActivity() {
         //Test PR25
         //Test PR26
         //Test PR27
+        print("resurl"+1/0)
     }
 }
