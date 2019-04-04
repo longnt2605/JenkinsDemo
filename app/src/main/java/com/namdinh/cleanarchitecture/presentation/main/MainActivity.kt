@@ -2,6 +2,7 @@ package com.namdinh.cleanarchitecture.presentation.main
 
 import android.os.Bundle
 import com.namdinh.cleanarchitecture.R
+import android.os.Binder
 import com.namdinh.cleanarchitecture.presentation.base.activity.BaseActivity
 
 class MainActivity : BaseActivity() {

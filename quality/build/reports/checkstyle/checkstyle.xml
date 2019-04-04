@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/CleanArchitectureApp.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/binding/adapter/ImageViewBindingAdapter.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/AppInjector.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/component/AppComponent.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/component/BindingComponent.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/helper/Injectable.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/helper/ViewModelFactory.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/helper/ViewModelKey.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/AppModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/BindingModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/NetworkModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/RealmModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/RoomModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/ViewModelModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/builder/ActivityBuildersModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/builder/FragmentBuildersModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/module/builder/RepositoryBuildersModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/qualifier/ServerAddress.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/di/scope/DataBinding.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/extension/Context.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/extension/Lifecycle.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/extension/String.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/extension/Throwable.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/extension/View.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/glide/GlideModule.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/helper/AbsentLiveData.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/helper/AppExecutors.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/helper/AutoClearedValue.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/helper/RateLimiter.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/interactor/viewmodel/Event.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/interactor/viewmodel/EventObserver.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/core/interactor/viewmodel/SingleLiveEvent.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/realm/helper/RealmModules.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/realm/repository/BaseRepository.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/GithubDb.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/converter/RepoSearchTypeConverters.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/dao/RepoDao.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/dao/UserDao.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/entity/ContributorEntity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/entity/RepoEntity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/entity/RepoSearchResultEntity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/entity/UserEntity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/repositoryimpl/BaseRepositoryImpl.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/repositoryimpl/RepoRepositoryImpl.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/local/room/repositoryimpl/UserRepositoryImpl.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/GithubService.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/exception/Failure.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/google/ApiResponse.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/google/LiveDataCallAdapter.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/google/LiveDataCallAdapterFactory.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/google/NetworkBoundResource.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/google/Resource.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/google/Status.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/rx/NetworkBoundResourceFlowable.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/rx/NetworkBoundResourceSingle.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/helper/rx/Resource.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/data/remote/response/RepoSearchResponse.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/repository/RepoRepository.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/repository/UserRepository.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/usecase/BaseUseCase.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/usecase/SearchNextRepositories.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/usecase/SearchRepositories.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/vo/Contributor.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/vo/Repo.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/domain/vo/User.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/base/activity/BaseActivity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/base/fragment/BaseFragment.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/base/view/DataBoundListAdapter.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/base/view/DataBoundViewHolder.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/base/view/RetryCallback.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/base/viewmodel/BaseViewModel.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/main/MainActivity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/repo/ContributorAdapter.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/repo/RepoFragment.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/repo/RepoListAdapter.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/repo/RepoViewModel.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/search/SearchFragment.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/search/SearchViewModel.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/splash/SplashScreenActivity.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/user/UserFragment.kt">
+</file>
+<file name="/Users/longnguyen/Documents/JenkinsDemo/app/src/main/java/com/namdinh/cleanarchitecture/presentation/user/UserViewModel.kt">
+</file>
+</checkstyle>
