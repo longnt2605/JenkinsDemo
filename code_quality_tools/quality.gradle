@@ -23,7 +23,7 @@ task checkstyle(type: Checkstyle) {
     group 'verification'
     configFile file("$qualityConfigDir/rules-checkstyle.xml")
     source fileTree("$projectDir/app/src/main/java")
-    include '**/*.kt'
+    include '**/*.java'
     exclude '**/gen/**'
 
     classpath = files()
